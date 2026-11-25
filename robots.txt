@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://finance.blackvault.co.ke/sitemap.xml
